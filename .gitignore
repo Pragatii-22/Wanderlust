@@ -1,0 +1,17 @@
+.env
+node_modules/
+
+
+# Push code To Github. 
+# 	git init
+# 	git add . or git add -A
+# 	git status
+# 	git commit -m “Uploading Taskmate Project” 
+
+# If you get error as a first time user, 
+# 	git config –global user.email “you@example.com” 
+# 	git config –global user.name “Your Name”
+
+# Then again do, 
+# 	git commit -m “Uploading Taskmate Project” 
+# 	git remote add origin https://g
